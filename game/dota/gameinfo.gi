@@ -38,11 +38,13 @@
 			Game_Language		dota_*LANGUAGE*
 
 			// These are optional low-violence paths. They will only get mounted if you're in a low-violence mode.
+            Game                dota2mods
 			Game_LowViolence	dota_lv
-
+    
 			Game				dota
 			Game				core
 
+            Mod                 dota2mods
 			Mod					dota
 
 			Write				dota
